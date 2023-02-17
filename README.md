@@ -3,7 +3,7 @@
 
 ## Read Full Tutorial here 
 
-https://www.insertcart.com/angle-broker-smartapi-setup-guide-with-full-python-api-source-code/
+https://www.insertcart.com/calculate-average-stock-price-and-quantity-php-html-css-code/
 
 
 ## Youtube Tutorial
