@@ -1,4 +1,4 @@
-# Calculate-Average-Stock-Price-PHP-HTML-CSS
+# Calculate Average Stock Price PHP HTML CSS code
 
 
 ## Read Full Tutorial here 
